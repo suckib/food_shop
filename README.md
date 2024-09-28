@@ -4,6 +4,8 @@ An online service of a restaurant where you can reserve and order food online wi
 
 Deployment: https://ssfoodshop.netlify.app/
 
+Techstack: ```wordpress```
+
 ### Homepage
 
 This is the homepage, where there are 4 options of Home, Menu, Reservation and Cart. This total homepage is customizable with elementor. Also, there is a cart icon at the right side of the screen which will be available on every pages of this website.
